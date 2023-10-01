@@ -1,3 +1,5 @@
 Making Javascript Web
+-Fundamental
+-Adding new skill
 Making Company Profile
-Framework
+
