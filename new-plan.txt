@@ -1,3 +1,5 @@
 Making Javascript Web
+-Javascript ReactJS
+Getting a job
 Making Company Profile
 Framework
