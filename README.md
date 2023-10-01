@@ -1,2 +1,2 @@
 # my-resolution
-repository mockup
+repository 
